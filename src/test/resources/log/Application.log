@@ -1,0 +1,2 @@
+DEBUG   2020-08-26 11:12:57,414 [main] base.TestBase  - debug log
+INFO    2020-08-26 11:12:57,441 [main] base.TestBase  - trying to click bank login button

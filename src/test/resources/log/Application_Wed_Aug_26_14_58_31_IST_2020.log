@@ -1,0 +1,6 @@
+DEBUG   2020-08-26 14:58:44,837 [main] base.TestBase  - debug log
+INFO    2020-08-26 14:58:44,875 [main] base.TestBase  - trying to click bank login button
+DEBUG   2020-08-26 14:58:44,875 [main] base.TestBase  - debug log
+ERROR   2020-08-26 14:58:44,875 [main] base.TestBase  - error log
+FATAL   2020-08-26 14:58:44,875 [main] base.TestBase  - fatal log
+WARN    2020-08-26 14:58:44,875 [main] base.TestBase  - warn log

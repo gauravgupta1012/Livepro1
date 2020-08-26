@@ -1,0 +1,3 @@
+DEBUG   2020-08-26 18:57:18,635 [main] base.TestBase  - debug log
+INFO    2020-08-26 18:57:18,661 [main] base.TestBase  - trying to click bank login button
+INFO    2020-08-26 18:57:18,668 [main] base.TestBase  - page title b4R clicking the link is Protractor practice website - Banking App
